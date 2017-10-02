@@ -6,8 +6,10 @@ The app is a simple body mass index (BMI) calculator. It was developed as a R Sh
 
 ## **[Go to the web app](https://sakhinanasagarsrinivas.shinyapps.io/myapp/)**
 
+
 ![Title image](readme_img/title.png)
 
+## **[Go to Rpubs for Presntation](http://rpubs.com/sakhinanasagarsrinivas/314267)**
 ---
 title: "README"
 author: "Sagar Srinivas"
